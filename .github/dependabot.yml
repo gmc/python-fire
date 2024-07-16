@@ -12,7 +12,7 @@ updates:
       separator: "-"
     open-pull-requests-limit: 5
     reviewers:
-      - "dbieber"
+      - "gmc"
 
   # Enable version updates for GitHub Actions
   - package-ecosystem: "github-actions"
@@ -28,4 +28,4 @@ updates:
       separator: "-"
     open-pull-requests-limit: 5
     reviewers:
-      - "dbieber"
+      - "gmc"
